@@ -1,0 +1,12 @@
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\bin\Debug\PCS.exe.config
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\bin\Debug\PCS.exe
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\bin\Debug\PCS.pdb
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\bin\Debug\PCS.xml
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.Form1.resources
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.Resources.resources
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.exe
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.xml
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.pdb
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.vbprojAssemblyReference.cache
