@@ -4,16 +4,6 @@
     Dim mousex As Integer
     Dim mousey As Integer
 
-
-    Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Form2.Show()
-    End Sub
-
-    'Opens login form
-    'Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-    '    Form2.Show()
-    ' End Sub
-
     'Start of window movement
 
     'Dragging top bar up/down for (for top panel)
@@ -94,4 +84,56 @@
         Me.WindowState = FormWindowState.Minimized
     End Sub
 
+    Private Sub PictureBox12_Click(sender As Object, e As EventArgs) Handles PictureBox12.Click
+        If MsgBox("In service on call", MsgBoxStyle.YesNo) = MsgBoxResult.Yes Then
+        End If
+    End Sub
+
+    Private Sub PictureBox13_Click(sender As Object, e As EventArgs) Handles PictureBox13.Click
+        MsgBox("In service free of calls", MsgBoxStyle.YesNo)
+    End Sub
+
+    Private Sub Label1_Click(sender As Object, e As EventArgs)
+        TabControl1.SelectTab(0)
+    End Sub
+
+    Private Sub Label3_Click(sender As Object, e As EventArgs)
+        TabControl1.SelectTab(1)
+    End Sub
+
+    Private Sub Label1_Click_1(sender As Object, e As EventArgs)
+        TabControl1.SelectTab(0)
+    End Sub
+
+    Private Sub Label3_Click_1(sender As Object, e As EventArgs)
+        TabControl1.SelectTab(1)
+    End Sub
+
+    Private Sub Label6_Click(sender As Object, e As EventArgs)
+        TabControl1.SelectTab(2)
+    End Sub
+
+    Private Sub Label1_Click_2(sender As Object, e As EventArgs) Handles Label1.Click
+        TabControl1.SelectTab(0)
+    End Sub
+
+    Private Sub Label3_Click_2(sender As Object, e As EventArgs) Handles Label3.Click
+        TabControl1.SelectTab(1)
+    End Sub
+
+    Private Sub Label6_Click_1(sender As Object, e As EventArgs) Handles Label6.Click
+        TabControl1.SelectTab(2)
+    End Sub
+
+    Private Sub PictureBox5_Click(sender As Object, e As EventArgs) Handles PictureBox5.Click
+        TabControl1.SelectTab(0)
+    End Sub
+
+    Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
+        TabControl1.SelectTab(1)
+    End Sub
+
+    Private Sub PictureBox10_Click(sender As Object, e As EventArgs) Handles PictureBox10.Click
+        TabControl1.SelectTab(2)
+    End Sub
 End Class

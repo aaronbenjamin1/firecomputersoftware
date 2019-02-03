@@ -4,9 +4,8 @@
     Dim mousex As Integer
     Dim mousey As Integer
 
-    Public unit As String = "519"
-    Public uname As String = "officer"
-    Public passwd As String = "donutz"
+    Public unit As String = "52"
+    Public passwd As String = "cookie"
 
 
     'Top bar functions
@@ -99,7 +98,7 @@
         but.AutoPopDelay = 5000
         but.InitialDelay = 1000
         but.ReshowDelay = 500
-        but.SetToolTip(PictureBox4, "Press to log in to PCS.")
+        but.SetToolTip(PictureBox4, "Press to log in to FCS.")
     End Sub
 
     'Hint for clear fiels
@@ -119,13 +118,17 @@
 
     'Login ensuring all the right things are functioning
     Private Sub PictureBox4_Click(sender As Object, e As EventArgs) Handles PictureBox4.Click
-        If pass.Text = passwd And lastName.Text = uname And unitNum.Text = unit Then
+        If pass.Text = passwd And department.Text = unit Then
             Me.Hide()
-            unitNum.Text = ""
-            lastName.Text = ""
+            department.Text = ""
             pass.Text = ""
 
             Form1.Show()
         End If
+    End Sub
+
+    Private Sub PictureBox5_Click(sender As Object, e As EventArgs) Handles PictureBox5.Click
+        department.Text = ""
+        pass.Text = ""
     End Sub
 End Class
