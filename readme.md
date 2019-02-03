@@ -1,6 +1,6 @@
-# Police Computer Software (PCS)
+# Fire Computer Software (FCS)
 
-The Police Computer Software is an application made for real life law enforcement officers. As of right now it's still in development and has yet to reach alpha stage. This application is meant to be state of the art and will provide officers with information quicker.
+The Fire Computer Software is an application made for real life fire departments. As of right now it's still in development and has yet to reach alpha stage. This application is meant to be state of the art and will provide dispatchers and firefighters with information quicker.
 
 ## Installation
 
