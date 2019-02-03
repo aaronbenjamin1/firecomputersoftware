@@ -1,18 +1,19 @@
-# Simple Calculator
+# Police Computer Software (PCS)
 
-This calculator isn't necessarily better than any other calculator you've seen. It's just something I made in 4 hours. It probably shouldn't have take me that long but I got really picky with the design.
+The Police Computer Software is an application made for real life law enforcement officers. As of right now it's still in development and has yet to reach alpha stage. This application is meant to be state of the art and will provide officers with information quicker.
 
 ## Installation
 
-Just download the Simple Calculator.exe file and then you're good!
+As of right now, it's not published so you're going to need Visual Studio to run it and test it.
 
 ## Built With
 
 * [Visual Basic in Visual Studio](https://visualstudio.microsoft.com/)
+* [MySQL](https://www.mysql.com/)
 
 ## Authors
 
-Just me!
+One man project :D
 
 ## License
 
