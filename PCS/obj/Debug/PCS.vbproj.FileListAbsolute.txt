@@ -10,3 +10,4 @@ C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.exe
 C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.xml
 C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.pdb
 C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\PCS.Form2.resources
