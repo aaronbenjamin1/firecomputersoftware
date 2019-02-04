@@ -131,4 +131,5 @@
         department.Text = ""
         pass.Text = ""
     End Sub
+
 End Class

@@ -175,6 +175,7 @@ Partial Class Form2
         Me.MaximumSize = New System.Drawing.Size(372, 357)
         Me.MinimumSize = New System.Drawing.Size(372, 357)
         Me.Name = "Form2"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "CPS Login"
         Me.Panel1.ResumeLayout(False)
         Me.Panel1.PerformLayout()

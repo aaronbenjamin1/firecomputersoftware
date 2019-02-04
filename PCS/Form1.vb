@@ -6,6 +6,8 @@
 
     'Start of window movement
 
+
+
     'Dragging top bar up/down for (for top panel)
     Private Sub Panel2_MouseDown(sender As Object, e As MouseEventArgs) Handles Panel2.MouseDown
         drag = True
@@ -136,4 +138,5 @@
     Private Sub PictureBox10_Click(sender As Object, e As EventArgs) Handles PictureBox10.Click
         TabControl1.SelectTab(2)
     End Sub
+
 End Class
