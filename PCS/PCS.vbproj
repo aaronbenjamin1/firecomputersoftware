@@ -232,6 +232,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="038_laptop_UQN_icon.ico" />
+    <None Include="icons\map %281%29.png" />
+    <None Include="icons\conversation.png" />
+    <None Include="icons\settings.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

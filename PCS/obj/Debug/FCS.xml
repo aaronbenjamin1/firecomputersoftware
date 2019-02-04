@@ -72,7 +72,32 @@ FCS
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:FCS.My.Resources.Resources.color_palette1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCS.My.Resources.Resources.conversation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:FCS.My.Resources.Resources.email">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCS.My.Resources.Resources.gear">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCS.My.Resources.Resources.map">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCS.My.Resources.Resources.map__1_">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -108,6 +133,11 @@ FCS
 </summary>
 </member>
 <member name="P:FCS.My.Resources.Resources.plus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCS.My.Resources.Resources.settings">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
