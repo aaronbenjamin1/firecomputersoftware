@@ -6,6 +6,10 @@ The Fire Computer Software is an application made for real life fire departments
 
 As of right now, it's not published so you're going to need Visual Studio to run it and test it.
 
+## Dependencies
+
+* [.NETFramework v4.6.1](https://www.microsoft.com/en-us/download/details.aspx?id=49982)
+
 ## Built With
 
 * [Visual Basic in Visual Studio](https://visualstudio.microsoft.com/)
