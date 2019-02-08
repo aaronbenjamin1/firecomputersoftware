@@ -1,12 +1,12 @@
 ﻿Public Class Form1
+
+    Private Server As TCPControl
+
     'ints for panels and shit
     Dim drag As Boolean
     Dim mousex As Integer
     Dim mousey As Integer
-
     'Start of window movement
-
-
 
     'Dragging top bar up/down for (for top panel)
     Private Sub Panel2_MouseDown(sender As Object, e As MouseEventArgs) Handles Panel2.MouseDown
@@ -139,4 +139,14 @@
         TabControl1.SelectTab(2)
     End Sub
 
+    'Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    '  Server = New TCPControl
+    ' txtChat.Text = ":: SERVER STARTED ::" & vbCrLf
+
+    'AddHandler() Server.MessageReceived, AddressOf OnLineReceived
+    'End Sub
+
+    Private Sub OnLineReceived(sender As TCPControl, Data As String)
+
+    End Sub
 End Class

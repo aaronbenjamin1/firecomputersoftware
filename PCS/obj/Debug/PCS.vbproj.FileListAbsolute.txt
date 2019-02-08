@@ -15,3 +15,20 @@ C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\bin\Debug\FCS.exe.manife
 C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\bin\Debug\FCS.application
 C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\FCS.exe.manifest
 C:\Users\Aaron\Desktop\Police Computer Software\PCS\PCS\obj\Debug\FCS.application
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\bin\Debug\FCS.exe.config
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\bin\Debug\FCS.exe.manifest
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\bin\Debug\FCS.application
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\bin\Debug\FCS.exe
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\bin\Debug\FCS.pdb
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\bin\Debug\FCS.xml
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\PCS.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\FCS.Form1.resources
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\FCS.Form2.resources
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\FCS.Resources.resources
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\PCS.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\PCS.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\FCS.exe.manifest
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\FCS.application
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\FCS.exe
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\FCS.xml
+C:\Users\Aaron\Desktop\Visual Basic Programs\Police Computer Software\PCS\PCS\obj\Debug\FCS.pdb
