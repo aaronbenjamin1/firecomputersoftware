@@ -306,7 +306,7 @@ Partial Class Form1
         Me.WebBrowser1.Name = "WebBrowser1"
         Me.WebBrowser1.Size = New System.Drawing.Size(589, 386)
         Me.WebBrowser1.TabIndex = 3
-        Me.WebBrowser1.Url = New System.Uri("https://www.bing.com/maps/directions", System.UriKind.Absolute)
+        Me.WebBrowser1.Url = New System.Uri("https://binged.it/2JMHQRC", System.UriKind.Absolute)
         '
         'TabControl1
         '
@@ -318,7 +318,7 @@ Partial Class Form1
         Me.TabControl1.Controls.Add(Me.TabPage3)
         Me.TabControl1.Controls.Add(Me.TabPage4)
         Me.TabControl1.Controls.Add(Me.TabPage5)
-        Me.TabControl1.Location = New System.Drawing.Point(190, 30)
+        Me.TabControl1.Location = New System.Drawing.Point(190, 32)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
         Me.TabControl1.Size = New System.Drawing.Size(602, 413)

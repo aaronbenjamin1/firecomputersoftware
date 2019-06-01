@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FCS.exe" size="603104">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FCS.exe" size="603616">
       <assemblyIdentity name="FCS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3QsSDQwKjwVFSDZVp2/Z689C01M8PkIanNYhzZdl/Ew=</dsig:DigestValue>
+        <dsig:DigestValue>NWpXHQyPDIgETgvgw+aAPc8SiGKLHmYX5srO7BkYSDg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

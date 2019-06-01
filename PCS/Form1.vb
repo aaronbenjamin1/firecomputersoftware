@@ -139,14 +139,27 @@
         TabControl1.SelectTab(2)
     End Sub
 
-    'Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-    '  Server = New TCPControl
-    ' txtChat.Text = ":: SERVER STARTED ::" & vbCrLf
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'Server = New TCPControl
+        'txtChat.Text = ":: SERVER STARTED ::" & vbCrLf
 
-    'AddHandler() Server.MessageReceived, AddressOf OnLineReceived
-    'End Sub
+        'AddHandler Server.MessageReceived, AddressOf OnLineReceived
+    End Sub
+
+    Private Delegate Sub UpdateTextDelegate(TB As TextBox, txt As String)
+
+    'Update information
+    Private Sub UpdateText(TB As TextBox, txt As String)
+        If TB.InvokeRequired Then
+            TB.Invoke(New UpdateTextDelegate(AddressOf UpdateText), New Object() {TB, Text})
+        Else
+            If txt IsNot Nothing Then TB.AppendText(txt & vbCrLf)
+        End If
+    End Sub
 
     Private Sub OnLineReceived(sender As TCPControl, Data As String)
-
+        'This might be what you want to edit
+        'UpdateText(txtChat, Data)
     End Sub
+
 End Class
